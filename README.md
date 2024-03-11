@@ -4,9 +4,9 @@ This repository hosts Java lab programs covering fundamental &amp; advanced conc
 # Programs included:
 
 Program 1:
-Quadratic Equation Solver,
-Array Multiplication,
-Bubble Sort
+a) Quadratic Equation Solver,
+b) Array Multiplication,
+c) Bubble Sort
 
 Program 2:
 Employee Database Operations,
